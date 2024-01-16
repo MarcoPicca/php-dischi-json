@@ -1,0 +1,38 @@
+[
+    {
+      "immagine": "https://upload.wikimedia.org/wikipedia/en/3/3b/Dark_Side_of_the_Moon.png",
+      "nomeDisco": "The Dark Side of the Moon",
+      "artista": "Pink Floyd",
+      "annoPubblicazione": 1973
+    },
+    {
+      "immagine": "https://bananaroad.com/cdn/shop/products/pst2914_ACDC_Back_In_Black_Poster-copy_large.jpg?v=1629336520",
+      "nomeDisco": "Back in Black",
+      "artista": "AC/DC",
+      "annoPubblicazione": 1980
+    },
+    {
+      "immagine": "https://www.sentireascoltare.com/wp-content/uploads/2018/08/Hotel-California-eagles.jpg",
+      "nomeDisco": "Hotel California",
+      "artista": "Eagles",
+      "annoPubblicazione": 1976
+    },
+    {
+      "immagine": "https://upload.wikimedia.org/wikipedia/en/2/26/Led_Zeppelin_-_Led_Zeppelin_IV.jpg",
+      "nomeDisco": "Led Zeppelin IV",
+      "artista": "Led Zeppelin",
+      "annoPubblicazione": 1971
+    },
+    {
+      "immagine": "https://www.4graph.it/blog/wp-content/uploads/2019/12/Pink-Floyd-The-Wall-Retro-Album-Cover-Poster-300x300.jpg",
+      "nomeDisco": "The Wall",
+      "artista": "Pink Floyd",
+      "annoPubblicazione": 1979
+    },
+    {
+      "immagine": "https://upload.wikimedia.org/wikipedia/en/7/7a/Born_to_Run_%28Front_Cover%29.jpg",
+      "nomeDisco": "Born to Run",
+      "artista": "Bruce Springsteen",
+      "annoPubblicazione": 1975
+    }
+  ]
